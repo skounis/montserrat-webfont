@@ -54,6 +54,9 @@ was done to font files, thus allowing this package to use name Montserrat.
 * Homepage: https://github.com/skounis/montserrat-webfont  
 * Repo: https://github.com/skounis/montserrat-webfont
 
+### Credits
+The project is inspired by the [Playfair Display webfont](https://github.com/hakger/playfair-webfont) package.
+
 ## License ##
 
 Software: Licensed under the MIT License (MIT)
