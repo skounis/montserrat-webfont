@@ -21,10 +21,10 @@ dependencies into right places, or link manually to
 
 ### Montserrat ###
 
-* **Version**
+#### Version
 Version 1.0.0
 
-* **Description**
+#### Description
 The old posters and signs in the traditional neighborhood of Buenos Aires called Montserrat inspired me to design a typeface that rescues the beauty of urban typography from the first half of the twentieth century. The goal is to rescue what is in Montserrat and set it free, under a free, libre and open source license, the SIL Open Font License.
 
 As urban development changes this place, it will never return to its original form and loses forever the designs that are so special and unique. To draw the letters, I rely on examples of lettering in the urban space. Each selected example produces its own variants in length, width and height proportions, each adding to the Montserrat family. The old typographies and canopies are irretrievable when they are replaced.
@@ -33,22 +33,21 @@ There are other revivals, but those do not stay close to the originals. The lett
 
 This is the Regular family, and it has two sister families so far, [Alternates](https://www.google.com/fonts/specimen/Montserrat+Alternates) and [Subrayada](https://www.google.com/fonts/specimen/Montserrat+Subrayada) families. Many of the letterforms are special in the Alternates family, while .
 
-* **Copyright**
+#### Copyright
 Copyright (c) by Julieta Ulanovsky
 
 Licensed under the SIL Open Font License, Version 1.1.
 
-* **Vendor**
+#### Vendor
 Julieta Ulanovsky
 
-* **Vendor URL**
+#### Vendor URL
 http://montserrat.zkysky.com.ar/en
 
-* **Webfont SIL OFL Compliance**
+#### Webfont SIL OFL Compliance
 Font files in /fonts are taken directly form Author's repository, no
 modification, subclassing or anything that would break Functional Equivalence
 was done to font files, thus allowing this package to use name Montserrat.
-
 
 ## Development Info ##
 * Homepage: https://github.com/skounis/montserrat-webfont  
@@ -60,9 +59,7 @@ The project is inspired by the [Playfair Display webfont](https://github.com/hak
 ## License ##
 
 Software: Licensed under the MIT License (MIT)
-
-  http://opensource.org/licenses/MIT
+* http://opensource.org/licenses/MIT
 
 Fonts: Licensed under version 1.1 of the SIL Open Font License
-
-  http://scripts.sil.org/OFL
+* http://scripts.sil.org/OFL
